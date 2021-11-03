@@ -31,7 +31,7 @@
     "promise": "^8.0.3",
     "request": "^2.88.0",
     "sharp": "^0.21.1",
-    "validator": "^10.9.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "env-cmd": "^8.0.2",
